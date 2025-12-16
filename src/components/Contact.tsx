@@ -46,7 +46,7 @@ export default function ContactSection() {
               <div className="flex gap-4">
                 <MapPin className="h-6 w-6 text-cyan-400 mt-1" />
                 <p className="text-gray-300">
-                  2nd Floor Sabah Plaza, Bank Road, Saddar, Rawalpindi
+                  2nd Floor,RTC Plaza ,Office#204,Haider road Saddar Rawalpindi
                 </p>
               </div>
 
@@ -54,7 +54,7 @@ export default function ContactSection() {
                 <Phone className="h-6 w-6 text-sky-400 mt-1" />
                 <div>
                   <p className="text-white font-semibold">
-                    Qamar Ali Rana – HR Manager
+                    Qamar Ali Rana
                   </p>
                   <p className="text-gray-300">+92 370 5546296</p>
                 </div>

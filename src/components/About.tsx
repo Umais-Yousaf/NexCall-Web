@@ -12,12 +12,12 @@ const team: TeamMember[] = [
   { name: "Qamar Ali Rana", role: "CEO", image: "/images/WhatsApp Image 2025-12-12 at 23.05.24_2e0ca6b6.jpg" },
   {
     name: "Akbar Qureshi",
-    role: "Developer & Founder",
+    role: "Founder",
     image: "/images/WhatsApp Image 2025-12-12 at 23.11.00_9119e32f.jpg",
   },
   {
     name: "Umais Yousaf",
-    role: "Developer & Co-Founder",
+    role: "Co-Founder",
     image: "/images/WhatsApp Image 2025-11-29 at 06.39.07_3b21cf6e.jpg",
   },
 ];
